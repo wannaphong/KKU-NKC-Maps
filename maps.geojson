@@ -64,8 +64,6 @@
 ,
 { "type": "Feature", "properties": { "Name": "พิพิธภัณฑ์สัตว์น้ำหนองคาย", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745874337852001, 17.809690871999319, 0.0 ] } }
 ,
-{ "type": "Feature", "properties": { "Name": "ตลาดแจ้งสว่าง", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.738430202007294, 17.838027667791639, 0.0 ] } }
-,
 { "type": "Feature", "properties": { "Name": "บ่ออนุบาลปลา", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748421430587797, 17.805077605099331, 0.0 ] } }
 ,
 { "type": "Feature", "properties": { "Name": "ศูนย์เรียนรู้เศรษฐกิจพอเพียง", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746775895357104, 17.800967317462071, 0.0 ] } }
