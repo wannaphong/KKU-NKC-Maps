@@ -1,37 +1,88 @@
 {
 "type": "FeatureCollection",
-"name": "KKU NKC",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "KKU NKC",                                                           
 "features": [
-{ "type": "Feature", "properties": { "Name": "คอมเพล็กซ์ มข.วนค.", "description": null, "timestamp": "2019\/02\/13 05:46:19+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.747865207493305, 17.799237750605911 ] } },
-{ "type": "Feature", "properties": { "Name": "อาคารเรียนรวม 2 (NK 6)", "description": null, "timestamp": "2019\/02\/13 06:45:03+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.748036533594103, 17.802229207546141 ] } },
-{ "type": "Feature", "properties": { "Name": "อาคารเรียนรวม 1 (NK 2)", "description": null, "timestamp": "2019\/02\/13 06:49:54+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.748092189431205, 17.803097809220858 ] } },
-{ "type": "Feature", "properties": { "Name": "สโมสรนักศึกษาคณะวิทยาศาสตร์ประยุกต์และวิศวกรรมศาสตร์", "description": null, "timestamp": "2019\/02\/13 06:53:22+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.747423984110398, 17.803542483120161 ] } },
-{ "type": "Feature", "properties": { "Name": "หน่วยกู้ชีพ มข.", "description": null, "timestamp": "2019\/02\/13 06:55:47+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.747485004365402, 17.803668255723348 ] } },
-{ "type": "Feature", "properties": { "Name": "เรือนพักรับรอง", "description": null, "timestamp": "2019\/02\/13 07:03:50+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745606116950498, 17.80449982108448 ] } },
-{ "type": "Feature", "properties": { "Name": "ศาลพระแก้วมรกต", "description": null, "timestamp": "2019\/02\/13 07:09:30+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.746372893452602, 17.805160282327432 ] } },
-{ "type": "Feature", "properties": { "Name": "อาคารปฎิบัติการประมงและแสดงพันธุ์สัตว์น้ำ (NK 3)", "description": null, "timestamp": "2019\/02\/13 07:12:41+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.747122570872307, 17.80573646812331 ] } },
-{ "type": "Feature", "properties": { "Name": "อาคารวันชัย สุ่มเล็ก", "description": null, "timestamp": "2019\/02\/13 07:19:46+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.748391591012506, 17.80630211796419 ] } },
-{ "type": "Feature", "properties": { "Name": "อาคารสำนักงานบริหาร (NK 1)", "description": null, "timestamp": "2019\/02\/13 07:26:30+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.746127471327796, 17.80637713346864 ] } },
-{ "type": "Feature", "properties": { "Name": "ศาลากลางน้ำ", "description": null, "timestamp": "2019\/02\/13 07:29:22+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745391204953194, 17.80594587369109 ] } },
-{ "type": "Feature", "properties": { "Name": "ตู้ไปรษณีย์", "description": null, "timestamp": "2019\/02\/13 07:33:06+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745800577104106, 17.806831056401411 ] } },
-{ "type": "Feature", "properties": { "Name": "ห้องสมุด ดร.ช่อ วายุภักตร์", "description": null, "timestamp": "2019\/02\/13 07:40:50+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.748571299016504, 17.80322677434237 ] } },
-{ "type": "Feature", "properties": { "Name": "UKKU", "description": null, "timestamp": "2019\/02\/13 07:42:17+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.748557552695303, 17.80323858549982 ] } },
-{ "type": "Feature", "properties": { "Name": "โรงจอดรถ", "description": null, "timestamp": "2019\/02\/13 10:33:32+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.746751084923702, 17.80589735291068 ] } },
-{ "type": "Feature", "properties": { "Name": "รถไปรษณีย์ มข.วนค.", "description": null, "timestamp": "2019\/02\/13 10:35:04+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745954804122405, 17.806641443164899 ] } },
-{ "type": "Feature", "properties": { "Name": "ฟิตเนส", "description": null, "timestamp": "2019\/02\/13 10:39:04+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.7444095164537, 17.808964031818391 ] } },
-{ "type": "Feature", "properties": { "Name": "โรงยิม", "description": null, "timestamp": "2019\/02\/13 14:48:11+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.743959240615396, 17.809484982130179 ] } },
-{ "type": "Feature", "properties": { "Name": "โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย", "description": null, "timestamp": "2019\/02\/13 14:48:28+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.743684984743595, 17.810587527588101 ] } },
-{ "type": "Feature", "properties": { "Name": "พิพิธภัณฑ์สัตว์น้ำหนองคาย", "description": null, "timestamp": "2019\/02\/13 14:49:12+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745874337852001, 17.809690871999319 ] } },
-{ "type": "Feature", "properties": { "Name": "บ่ออนุบาลปลา", "description": null, "timestamp": "2019\/02\/13 15:39:54+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.748421430587797, 17.805077605099331 ] } },
-{ "type": "Feature", "properties": { "Name": "ศูนย์เรียนรู้เศรษฐกิจพอเพียง", "description": null, "timestamp": "2019\/02\/13 15:40:26+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.746775895357104, 17.800967317462071 ] } },
-{ "type": "Feature", "properties": { "Name": "ศาลเจ้าพ่อขอนล่อง", "description": null, "timestamp": "2019\/02\/13 15:42:05+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745060622692094, 17.807357120352421 ] } },
-{ "type": "Feature", "properties": { "Name": "ศูนย์ซ่อมบำรุงและโรงจ่ายน้ำประปา", "description": null, "timestamp": "2019\/02\/13 15:43:17+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745636291801901, 17.80245010921826 ] } },
-{ "type": "Feature", "properties": { "Name": "ศูนย์เพาะปลูก", "description": null, "timestamp": "2019\/02\/13 15:43:45+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.745757326483698, 17.802003198037859 ] } },
-{ "type": "Feature", "properties": { "Name": "อาคารปฏิบัติการโรงแรม", "description": null, "timestamp": "2019\/02\/13 15:44:40+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.746237441897406, 17.803249758215621 ] } },
-{ "type": "Feature", "properties": { "Name": "สนามกีฬากลาง", "description": null, "timestamp": "2019\/02\/13 15:47:25+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.744466848671394, 17.808317629959589 ] } },
-{ "type": "Feature", "properties": { "Name": "บ้านพักผู้อำนวยการวิทยาเขตหนองคาย", "description": null, "timestamp": "2019\/02\/13 15:48:11+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.747682817280307, 17.80683361011365 ] } },
-{ "type": "Feature", "properties": { "Name": "ศูนย์พัฒนาทักษะและกิจกรรมนักศึกษา", "description": null, "timestamp": "2019\/02\/13 16:02:37+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.747397162020206, 17.803585258583979 ] } },
-{ "type": "Feature", "properties": { "Name": "ATM กรุงไทย", "description": null, "timestamp": "2019\/02\/13 07:25:07+00", "com_exlyo_mapmarker_piniconcode": "-1", "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Point", "coordinates": [ 102.746534161269693, 17.806454702659231 ] } }
+{ "type": "Feature", "properties": { "Name": "ATM กรุงไทย", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746534161269693, 17.806454702659231, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "หอพักนักศึกษาหญิง 2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.749365232884898, 17.798282938244611, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "หอพักนักศึกษาหญิง 1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.749009504914298, 17.798741350968669, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "แฟลตชิงชัน 2", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.750581949949293, 17.799606138897541, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "หอพักนักศึกษาชาย", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747424654662595, 17.79938619138683, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "K Shop", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747279815375805, 17.803856914461878, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "แฟลตชิงชัน 1", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.750992663204698, 17.800297902378261, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "สนามกีฬา หอใน", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748359739780398, 17.798786681410849, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "สนามกีฬา หอใน", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748507931828499, 17.798708470429471, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "สนามเทนนิส", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.744824253022699, 17.807620470958771, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "สนาม 10 ปี วนค.", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746573723852606, 17.80776730870377, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "คอมเพล็กซ์ มข.วนค.", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747865207493305, 17.799237750605911, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "อาคารเรียนรวม 2 (NK 6)", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748036533594103, 17.802229207546141, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "อาคารเรียนรวม 1 (NK 2)", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748092189431205, 17.803097809220858, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "สโมสรนักศึกษาคณะวิทยาศาสตร์ประยุกต์และวิศวกรรมศาสตร์", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747423984110398, 17.803542483120161, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "หน่วยกู้ชีพ มข.", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747485004365402, 17.803668255723348, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "เรือนพักรับรอง", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745606116950498, 17.80449982108448, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ศาลพระแก้วมรกต", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746372893452602, 17.805160282327432, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "อาคารปฎิบัติการประมงและแสดงพันธุ์สัตว์น้ำ (NK 3)", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747122570872307, 17.80573646812331, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "อาคารวันชัย สุ่มเล็ก", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748391591012506, 17.80630211796419, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "อาคารสำนักงานบริหาร (NK 1)", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746127471327796, 17.80637713346864, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ศาลากลางน้ำ", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745391204953194, 17.80594587369109, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ตู้ไปรษณีย์", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745800577104106, 17.806831056401411, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ห้องสมุด ดร.ช่อ วายุภักตร์", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748571299016504, 17.80322677434237, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UKKU", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748557552695303, 17.80323858549982, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "โรงจอดรถ", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746751084923702, 17.80589735291068, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "รถไปรษณีย์ มข.วนค.", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745954804122405, 17.806641443164899, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ฟิตเนส", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.7444095164537, 17.808964031818391, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "โรงยิม", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.743959240615396, 17.809484982130179, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.743684984743595, 17.810587527588101, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "พิพิธภัณฑ์สัตว์น้ำหนองคาย", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745874337852001, 17.809690871999319, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ตลาดแจ้งสว่าง", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.738430202007294, 17.838027667791639, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "บ่ออนุบาลปลา", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.748421430587797, 17.805077605099331, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ศูนย์เรียนรู้เศรษฐกิจพอเพียง", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746775895357104, 17.800967317462071, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ศาลเจ้าพ่อขอนล่อง", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745060622692094, 17.807357120352421, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ศูนย์ซ่อมบำรุงและโรงจ่ายน้ำประปา", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745636291801901, 17.80245010921826, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ศูนย์เพาะปลูก", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.745757326483698, 17.802003198037859, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "อาคารปฏิบัติการโรงแรม", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.746237441897406, 17.803249758215621, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "สนามกีฬากลาง", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.744466848671394, 17.808317629959589, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "บ้านพักผู้อำนวยการวิทยาเขตหนองคาย", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747682817280307, 17.80683361011365, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ศูนย์พัฒนาทักษะและกิจกรรมนักศึกษา", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 102.747397162020206, 17.803585258583979, 0.0 ] } }
+
 ]
 }
