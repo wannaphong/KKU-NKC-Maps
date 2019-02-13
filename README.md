@@ -6,6 +6,7 @@ licensed under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Maps for Khon Kaen University Nong Khai Campus
 
+## Developer
 
 Mr. Wannaphong Phatthiyaphaibun
 
