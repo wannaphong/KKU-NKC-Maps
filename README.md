@@ -5,3 +5,14 @@
 licensed under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Maps for Khon Kaen University Nong Khai Campus
+
+
+Mr. Wannaphong Phatthiyaphaibun
+
+Bachelor of Science Program in Computer and Information Science,
+
+Faculty of Applied Science and Engineering,
+
+Nong Khai Campus, Khon Kaen University
+
+wannaphong@kkumail.com
