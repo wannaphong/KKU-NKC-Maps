@@ -1,4 +1,4 @@
-# KKU-NKC-Maps
+# KKU NKC Maps
 
 [![สัญญาอนุญาตของครีเอทีฟคอมมอนส์](https://i.creativecommons.org/l/by/3.0/th/88x31.png)]
 
